@@ -4,7 +4,7 @@
 ### Presentation: Please check Presentation.pdf in repository
 ### Video: https://drive.google.com/file/d/1yHBh8E7ebv5SyU_VSGQweuAanQdaSn7Y/view?usp=sharing
 
-# Models for SQ
+# Models for SQuad
 ## Base Model
  A simple RNN network with 2 RNN layers was created as a baseline model. This was used as the base to evaluate the performance of other models. 
 
