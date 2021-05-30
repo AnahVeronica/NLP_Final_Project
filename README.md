@@ -1,5 +1,7 @@
 # NLP_Final_Project
 
+### Team Members: Anah Veronica, Shivani GB, Harshitha K, Jahnavi Kashyap
+
 ### Poster: Please check Poster.pdf in repository
 ### Presentation: Please check Presentation.pdf in repository
 ### Video: https://drive.google.com/file/d/1yHBh8E7ebv5SyU_VSGQweuAanQdaSn7Y/view?usp=sharing
