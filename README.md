@@ -64,7 +64,3 @@ We fine-tuned the GPT-2 model with the FAQ data which was just too small to make
 Text generation and question-answering are really interesting areas and there are a lot of ways we could’ve made our models better with techniques like ask-answer and distillation. 
 
 
-## The fun slide 
-
-* can have crazy model predictions, comparisons, basically anything to show that we had fun working on this project. 
-
